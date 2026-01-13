@@ -1,47 +1,40 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** `[13/01/2026]`  
+**Studentnaam:** `[Hamza Lamrabet]`  
+**Groepsnaam:** `[Group W]`
 
 ---
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-*Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).  
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
+*Instructie*  
+- Bewerkt aan mijn invidividuele concept (Vintage/simplistische website)
 
 
 > **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+- Bewerkt aan mijn concept op Illustrator
+- Bewerkt aan de persona (Klaar)
+- Start van het grafische ontwerp op figma
 
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 *Instructie (1 item per dag volstaat):*  
-- Omschrijf kort je persoonlijke vooruitgang.  
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
+- Leren denken aan problemen oplossen (hoe kan de website zo simple maar zo complexe mogelijk zijn zo dat het is makkelijk begrijpbaar voor seniors/oudere)
 
 
 > **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
-
+> - Zo ver niks nieuw denk ik
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
 *Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+- Overall blij van mijn progressie, ben een beetje achter tov mijn groep maar het is niet zo'n groot verschil waar ik zou mezelf veel zorgen gaan maken
 
 
 > **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
-> - **"Gefrustreerd"** :zap:
+> - **"Good!"** :smiley:  
 
----
 
-*Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
